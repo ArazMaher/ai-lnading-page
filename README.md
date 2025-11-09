@@ -43,8 +43,8 @@ reference or inspiration for future modern applications or websites in general.
 2. Fork this repository on GitHub and clone **your fork** to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/ai-saas-landing-starter.git
-   cd ai-saas-landing-starter
+   git clone https://github.com/ArazMaher/ai-lnading-page.git
+   cd ai-landing-page
    ```
 3. Open the terminal in the project root and run `pnpm install` to install dependencies.
 4. Start the development server with `pnpm dev`.
