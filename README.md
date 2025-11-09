@@ -10,53 +10,8 @@
     <a href="https://ai-saas-landing-starter.vercel.app/"><strong>Explore »</strong></a>
     <br />
     <br />
-    <a href="https://ai-saas-landing-starter.vercel.app/">Website</a>
     &middot;
-    <a href="https://github.com/aayushbharti/ai-saas-landing-starter/issues">Issues</a>
-    &middot;
-    <a href="https://github.com/aayushbharti/ai-saas-landing-starter/issues/new?labels=enhancement&template=FEATURE_REQUEST_TEMPLATE.md">Request Feature</a>
   </p>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aayushbharti">
-    <img src="https://custom-icon-badges.demolab.com/badge/made%20by%20-aayushbharti-556bf2?logo=github&logoColor=white&labelColor=101827" alt="Made by Aayush Bharti">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/stargazers">
-    <img src="https://img.shields.io/github/stars/aayushbharti/ai-saas-landing-starter?style=flat&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/forks">
-    <img src="https://img.shields.io/github/forks/aayushbharti/ai-saas-landing-starter?style=flat" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/aayushbharti/ai-saas-landing-starter?color=dddddd&labelColor=000000" alt="License">
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/github/languages/top/aayushbharti/ai-saas-landing-starter?&logoColor=%23007ACC&label=TypeScript" alt="Top Language">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/aayushbharti/ai-saas-landing-starter?style=flat&color=orange&label=Contributors" alt="Contributors">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/t/aayushbharti/ai-saas-landing-starter?style=flat&logo=github" alt="Commits">
-  </a>
-  <a href="https://github.com/aayushbharti/ai-saas-landing-starter/pulls">
-    <img src="https://img.shields.io/github/issues-pr/aayushbharti/ai-saas-landing-starter?color=brightgreen&label=PRs" alt="Pull Requests">
-  </a>
-  <img src="https://img.shields.io/github/deployments/aayushbharti/ai-saas-landing-starter/Production?logo=vercel&label=Website" alt="Deployment Status">
-</p>
-
-
-
-<!-- [![GitHub commits](https://img.shields.io/github/commit-activity/t/aayushbharti/ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/aayushbharti/ai-saas-landing-starter?style=social&logo=github)](https://github.com/aayushbharti/ai-saas-landing-starter/pulls) -->
-<!-- [![Stars](https://img.shields.io/github/stars/aayushbharti/ai-saas-landing-starter?style=social)](https://github.com/aayushbharti/ai-saas-landing-starter/stargazers)
-[![Fork](https://img.shields.io/github/forks/aayushbharti/ai-saas-landing-starter?style=social)](https://github.com/aayushbharti/ai-saas-landing-starter/forks)
-[![aayushbharti](https://custom-icon-badges.demolab.com/badge/made%20by%20-aayushbharti-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/aayushbharti)
-[![License](https://img.shields.io/github/license/aayushbharti/ai-saas-landing-starter?color=dddddd&labelColor=000000)](https://github.com/aayushbharti/ai-saas-landing-starter/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/aayushbharti/ai-saas-landing-starter?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/aayushbharti/ai-saas-landing-starter?style=flat&color=orange&label=Contributors)](https://github.com/aayushbharti/ai-saas-landing-starter/graphs/contributors)
-![deployment](https://img.shields.io/github/deployments/aayushbharti/ai-saas-landing-starter/Production?logo=vercel&label=Website) -->
 
 <details>
 <summary>Table of Contents</summary>
@@ -121,13 +76,9 @@ reference or inspiration for future modern applications or websites in general.
 - [Prettier](https://prettier.io/): Prettier is an opinionated code formatter.
 - [React Just Parallax](https://www.npmjs.com/package/react-just-parallax):
   React Just Parallax is a simple and lightweight parallax component for React.
-- [Vercel](https://vercel.com/): Vercel is a cloud platform for frontend
-  developers, providing the frameworks, workflows, and infrastructure to build a
-  faster, more personalized Web.
-
 </details><br/>
 
-[![Technologies Used](https://skillicons.dev/icons?i=ts,nextjs,tailwind,vercel)](https://skillicons.dev)
+[![Technologies Used](https://skillicons.dev/icons?i=ts,nextjs,tailwind)](https://skillicons.dev)
 
 <!-- ## :wrench: Stats
 
@@ -136,8 +87,6 @@ reference or inspiration for future modern applications or websites in general.
 
 
 ## 🔧 Contributing
-
-[![contributors](https://contrib.rocks/image?repo=aayushbharti/ai-saas-landing-starter)](https://github.com/aayushbharti/ai-saas-landing-starter/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to
 learn, inspire, and create. Any contributions you make are **greatly
@@ -161,7 +110,6 @@ project and made it possible:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Prettier](https://prettier.io/)
 - [ESLint](https://eslint.org/)
-- [Vercel](https://vercel.com/)
 - [React Just Parallax](https://www.npmjs.com/package/react-just-parallax)
 
 <!-- ## :coffee: Buy Me a Coffee
@@ -171,9 +119,7 @@ project and made it possible:
 ## 🚀 Follow Me
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-@aayushbharti-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/aayushbharti) -->
-[![Follow Me](https://img.shields.io/github/followers/aayushbharti?style=social&label=Github&maxAge=2592000)](https://github.com/aayushbharti "Follow Me")
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aayushbharti-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/iaayushbharti)
-[![Tweet about this project](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiaayushbharti)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Faayushbharti%2Fai-saas-landing-starter "Tweet about this project")
+[![Follow Me](https://img.shields.io/github/followers/aayushbharti?style=social&label=Github&maxAge=2592000)](https://github.com/ArazMaher "Follow Me")
 <!-- [![Twitter](https://img.shields.io/twitter/follow/iaayushbharti.svg?style=social)](https://twitter.com/intent/follow?screen_name=iaayushbharti) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-aayushbharti-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/aayushbharti) -->
 
@@ -192,16 +138,6 @@ For more details, check the [Next.js deployment docs](https://nextjs.org/docs/de
 ## ⭐ Give A Star
 
 You can also give this repository a star to show more people and they can use this repository.
-
-## 🌟 Star History
-
-<a href="https://star-history.com/#aayushbharti/ai-saas-landing-starter&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aayushbharti/ai-saas-landing-starter&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aayushbharti/ai-saas-landing-starter&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aayushbharti/ai-saas-landing-starter&type=Timeline" />
-</picture>
-</a>
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
