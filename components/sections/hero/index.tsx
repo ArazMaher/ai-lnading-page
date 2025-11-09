@@ -67,6 +67,7 @@ const Hero = (props: Props) => {
                   height={490}
                   className="w-full translate-y-[8%] scale-[1.7] md:translate-y-[-10%] md:scale-100 lg:translate-y-[-23%]"
                   alt="AI"
+                  unoptimized
                 />
 
                 <Generating className="absolute inset-x-4 bottom-5 md:bottom-8 md:left-1/2 md:right-auto md:w-[31rem] md:-translate-x-1/2" />

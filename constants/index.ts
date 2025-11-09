@@ -1,4 +1,4 @@
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "/ai-lnading-page"
 export const images = {
   yourlogo: `${basePath}/assets/yourlogo.svg`,
   check: `${basePath}/assets/check.svg`,
